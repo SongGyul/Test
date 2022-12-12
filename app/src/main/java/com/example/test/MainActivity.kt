@@ -15,6 +15,10 @@ class MainActivity : AppCompatActivity() {
         Log.d("TAG", ": ");
         findViewById<Button>(R.id.btn).setOnClickListener {
             Log.d("TAG", ": ");
+            Log.d("TAG", "mytest: ");
         }
+        Log.d("TAG", "fkfkfk: ");
+        Log.d("TAG", "dkdkck: ");
+        Log.d("TAG", "cmcmcm: ");
     }
 }
