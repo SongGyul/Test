@@ -18,6 +18,7 @@ class MainActivity : AppCompatActivity() {
             Log.d("TAG", "mytest: ");
         }
         Log.d("TAG", "fkfkfk: ");
+        Log.d("TAG", "메리: ")
         Log.d("TAG", "크리스마스~~~: ")
         Log.d("TAG", "dkdkck: ");
         Log.d("TAG", "cmcmcm: ");
